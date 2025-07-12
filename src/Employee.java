@@ -1,9 +1,9 @@
 public class Employee {
-    int id;
-    String name;
-    String dept;
-    double salary;
-    Address address;
+   private int id;
+  private  String name;
+ private   String dept;
+ private   double salary;
+  private  Address address;
 
     public int getId() {
         return id;
